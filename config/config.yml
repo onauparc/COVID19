@@ -4,3 +4,7 @@ data:
   dateformat: YYYYmmdd
   extension: csv
   first_date: 20200224
+logging:
+  filename: log.log
+  # INFO, DEBUG, WARNING
+  level: INFO
