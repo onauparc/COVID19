@@ -1,0 +1,6 @@
+data:
+  repo: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/
+  filename: dpc-covid19-ita-regioni-
+  dateformat: YYYYmmdd
+  extension: csv
+  first_date: 20200224
